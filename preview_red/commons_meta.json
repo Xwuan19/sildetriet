@@ -1,0 +1,80 @@
+﻿{
+    "DateTime":  {
+                     "value":  "2020-05-10 07:33:27",
+                     "source":  "mediawiki-metadata",
+                     "hidden":  ""
+                 },
+    "ObjectName":  {
+                       "value":  "Lenin 1920",
+                       "source":  "mediawiki-metadata"
+                   },
+    "CommonsMetadataExtension":  {
+                                     "value":  1.2,
+                                     "source":  "extension",
+                                     "hidden":  ""
+                                 },
+    "Categories":  {
+                       "value":  "Files with no machine-readable source|PD-Russia|Images without source|Images with extracted images|On OSM|Files with coordinates missing SDC location of creation|Vladimir Lenin in 1920|Portrait photographs of Vladimir Lenin by Pavel Zhukov",
+                       "source":  "commons-categories",
+                       "hidden":  ""
+                   },
+    "Assessments":  {
+                        "value":  "",
+                        "source":  "commons-categories",
+                        "hidden":  ""
+                    },
+    "GPSLatitude":  {
+                        "value":  "55.753721",
+                        "source":  "commons-desc-page"
+                    },
+    "GPSLongitude":  {
+                         "value":  "37.619902",
+                         "source":  "commons-desc-page"
+                     },
+    "GPSMapDatum":  {
+                        "value":  "WGS-84",
+                        "source":  "commons-desc-page",
+                        "hidden":  ""
+                    },
+    "ImageDescription":  {
+                             "value":  "This is a publicity image of the Russian revolutionary leader Vladimir Lenin, taken in 1920. It has been reproduced widely, both in print and online (for instance \u003ca rel=\"nofollow\" class=\"external text\" data-mw-original-href=\"http://www.marxists.org/archive/lenin/photo/1920/090.jpg\" href=\"https://www.marxists.org/archive/lenin/photo/1920/090.jpg\"\u003ehere\u003c/a\u003e).",
+                             "source":  "commons-desc-page"
+                         },
+    "DateTimeOriginal":  {
+                             "value":  "1920",
+                             "source":  "commons-desc-page"
+                         },
+    "Artist":  {
+                   "value":  "Pavel Semyonovich Zhukov (1870-1942)",
+                   "source":  "commons-desc-page"
+               },
+    "LicenseShortName":  {
+                             "value":  "Public domain",
+                             "source":  "commons-desc-page",
+                             "hidden":  ""
+                         },
+    "UsageTerms":  {
+                       "value":  "Public domain",
+                       "source":  "commons-desc-page"
+                   },
+    "AttributionRequired":  {
+                                "value":  "false",
+                                "source":  "commons-desc-page",
+                                "hidden":  ""
+                            },
+    "Copyrighted":  {
+                        "value":  "False",
+                        "source":  "commons-desc-page",
+                        "hidden":  ""
+                    },
+    "Restrictions":  {
+                         "value":  "",
+                         "source":  "commons-desc-page",
+                         "hidden":  ""
+                     },
+    "License":  {
+                    "value":  "pd",
+                    "source":  "commons-templates",
+                    "hidden":  ""
+                }
+}

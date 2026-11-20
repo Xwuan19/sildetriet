@@ -1,0 +1,121 @@
+# MTL for Lenin_Seattle
+# materials: 16
+newmtl default_tex0
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+d 1.0
+illum 1
+map_Kd textures/556743851ab3475fbd2fd898c9d3fbce_gltf_embedded_0.jpeg
+
+newmtl mat_1
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+d 1.0
+illum 1
+
+newmtl default_tex1
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+d 1.0
+illum 1
+map_Kd textures/d5d0ec22c7b34358b24f479dc5474971_gltf_embedded_1.jpeg
+
+newmtl mat_3
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+d 1.0
+illum 1
+
+newmtl default_tex2
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+d 1.0
+illum 1
+map_Kd textures/05d512c02ace4beaa46adc10498d4035_gltf_embedded_2.jpeg
+
+newmtl mat_5
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+d 1.0
+illum 1
+
+newmtl default_tex3
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+d 1.0
+illum 1
+map_Kd textures/1492f989f5f84847ad29d8f6cf6ae838_gltf_embedded_3.jpeg
+
+newmtl mat_7
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+d 1.0
+illum 1
+
+newmtl default_tex4
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+d 1.0
+illum 1
+map_Kd textures/8a780f09a7564036a26fcd9ad85030d9_gltf_embedded_4.jpeg
+
+newmtl mat_9
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+d 1.0
+illum 1
+
+newmtl default_tex5
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+d 1.0
+illum 1
+map_Kd textures/5907059d9d3340838d4ef912c2ee228b_gltf_embedded_5.jpeg
+
+newmtl mat_11
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+d 1.0
+illum 1
+
+newmtl default_tex6
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+d 1.0
+illum 1
+map_Kd textures/462c62b7b18444978f8a78df3e451230_gltf_embedded_6.jpeg
+
+newmtl mat_13
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+d 1.0
+illum 1
+
+newmtl default_tex7
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+d 1.0
+illum 1
+map_Kd textures/0192367eb6514e08bf57e607e962df05_gltf_embedded_7.jpeg
+
+newmtl mat_15
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+d 1.0
+illum 1

@@ -1,0 +1,40 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Storyboard",
+  "type": "object",
+  "required": ["deck_title", "target_audience", "slides"],
+  "properties": {
+    "deck_title": { "type": "string" },
+    "target_audience": { "type": "string" },
+    "total_slides": { "type": "integer" },
+    "slides": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["slide_id", "slide_type", "action_headline", "core_message", "speaker_notes"],
+        "properties": {
+          "slide_id": { "type": "integer" },
+          "slide_type": { "type": "string", "enum": ["hero_cover", "member_distribution", "content_list", "chart_focus", "thank_you_transition"] },
+          "kicker": { "type": "string" },
+          "action_headline": { "type": "string" },
+          "subheadline": { "type": "string" },
+          "core_message": { "type": "string" },
+          "bullets": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["title", "text"],
+              "properties": {
+                "title": { "type": "string" },
+                "text": { "type": "string", "maxLength": 100 },
+                "badge": { "type": "string" }
+              }
+            }
+          },
+          "quote": { "type": "string" },
+          "speaker_notes": { "type": "string" }
+        }
+      }
+    }
+  }
+}

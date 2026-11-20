@@ -1,0 +1,30 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "default_agent": "creative-director",
+  "agents": {
+    "creative-director": {
+      "mode": "all",
+      "description": "Giám đốc Sáng tạo & Điều phối Studio"
+    },
+    "narrative-strategist": {
+      "mode": "subagent",
+      "description": "Chuyên gia Kịch bản & Nội dung"
+    },
+    "data-specialist": {
+      "mode": "subagent",
+      "description": "Chuyên gia Trực quan hóa Dữ liệu"
+    },
+    "visual-creator": {
+      "mode": "subagent",
+      "description": "Chuyên gia Hình ảnh & Đồ họa"
+    },
+    "layout-designer": {
+      "mode": "subagent",
+      "description": "Nhà thiết kế Bố cục & Lắp ráp UI/UX"
+    },
+    "design-qa": {
+      "mode": "subagent",
+      "description": "Kiểm định Chất lượng Thị giác & Phê bình Mỹ thuật"
+    }
+  }
+}

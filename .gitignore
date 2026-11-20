@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+
+# Cache & downloads
+.download/
+tools/sketchfab-cli/downloads/
+
+# Large 3D models exceeding GitHub 100MB limit
+assets/models3d/lenin_seattle/Lenin_Seattle.obj
+*.obj
+
+# Video frame dumps & intermediate rendering caches (>1.5GB)
+preview_red/all_seconds/
+preview_red/deck_morph_1000ms/
+preview_red/deck_morph_frames/
+preview_red/deck_morph_s2_s3/
+preview_red/edit_mode_1080p/
+preview_red/exact_p2_50fps/
+preview_red/exact_ref_50fps/
+preview_red/exact_start_50fps/
+preview_red/intro_frames/
+preview_red/intro_sequence/
+preview_red/intro_slideshow/
+preview_red/morph_frames/
+preview_red/ref_frames_hd/
+preview_red/ref_overview/
+preview_red/ref_video_frames/
+preview_red/ref_video_transition1/
+preview_red/sample_frames/
+preview_red/slideppt_media/
+preview_red/trans_analysis_frames/
+preview_red/trans_detailed/
+preview_red/trans_later/
+preview_red/trans_slide2_to_3/
+preview_red/video_1080p_frames/
+preview_red/video_first_6s/
+preview_red/test_*.gltf
+
+# OS generated
+.DS_Store
+Thumbs.db

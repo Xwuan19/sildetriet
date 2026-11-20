@@ -1,0 +1,8 @@
+python-pptx>=1.0.2
+Pillow>=10.0.0
+lxml>=5.0.0
+fontTools>=4.50
+numpy>=1.24
+
+# Chỉ cần khi tạo lại ảnh cắt nền bằng tools/prepare_lenin.py:
+# rembg>=2.0

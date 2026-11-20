@@ -1,0 +1,18 @@
+{
+  "theme_name": "Soviet Constructivist & Editorial Neo-Classical",
+  "primary_color": "#8E1A1E",
+  "accent_gold": "#E8C872",
+  "card_bg": "#28080C",
+  "text_cream": "#FBF6EE",
+  "text_muted": "#D6C4B8",
+  "font_display": "Playfair Editorial",
+  "font_sans": "Be Vietnam Pro",
+  "font_script": "Script Viet",
+  "slide_width": 13.333,
+  "slide_height": 7.5,
+  "morph_duration_ms": 1000,
+  "grid_margin_left": 0.68,
+  "grid_margin_right": 12.66,
+  "grid_margin_top": 0.52,
+  "grid_margin_bottom": 6.96
+}

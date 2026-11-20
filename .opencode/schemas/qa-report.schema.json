@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "QAReport",
+  "type": "object",
+  "required": ["overall_status", "score", "tickets"],
+  "properties": {
+    "overall_status": { "type": "string", "enum": ["APPROVED", "REVISE"] },
+    "score": { "type": "number", "minimum": 0, "maximum": 10 },
+    "tickets": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["slide_id", "severity", "category", "description", "fix_suggestion"],
+        "properties": {
+          "slide_id": { "type": "integer" },
+          "severity": { "type": "string", "enum": ["CRITICAL", "WARNING", "POLISH"] },
+          "category": { "type": "string", "enum": ["OVERFLOW", "CONTRAST", "ALIGNMENT", "OCCLUSION", "STYLE_DRIFT"] },
+          "description": { "type": "string" },
+          "fix_suggestion": { "type": "string" }
+        }
+      }
+    },
+    "summary": { "type": "string" }
+  }
+}

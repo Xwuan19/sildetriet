@@ -1,0 +1,41 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "DesignTokens",
+  "type": "object",
+  "required": [
+    "theme_name",
+    "primary_color",
+    "accent_gold",
+    "card_bg",
+    "text_cream",
+    "text_muted",
+    "font_display",
+    "font_sans",
+    "slide_width",
+    "slide_height",
+    "morph_duration_ms"
+  ],
+  "properties": {
+    "theme_name": { "type": "string" },
+    "primary_color": { "type": "string", "pattern": "^#[0-9A-Fa-f]{6}$" },
+    "accent_gold": { "type": "string", "pattern": "^#[0-9A-Fa-f]{6}$" },
+    "card_bg": { "type": "string", "pattern": "^#[0-9A-Fa-f]{6}$" },
+    "text_cream": { "type": "string", "pattern": "^#[0-9A-Fa-f]{6}$" },
+    "text_muted": { "type": "string", "pattern": "^#[0-9A-Fa-f]{6}$" },
+    "font_display": { "type": "string" },
+    "font_sans": { "type": "string" },
+    "font_script": { "type": "string" },
+    "slide_width": { "type": "number", "default": 13.333 },
+    "slide_height": { "type": "number", "default": 7.500 },
+    "morph_duration_ms": { "type": "integer", "default": 1000 },
+    "grid_margins": {
+      "type": "object",
+      "properties": {
+        "left": { "type": "number" },
+        "right": { "type": "number" },
+        "top": { "type": "number" },
+        "bottom": { "type": "number" }
+      }
+    }
+  }
+}

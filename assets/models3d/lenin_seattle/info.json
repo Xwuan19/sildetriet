@@ -1,0 +1,12 @@
+{
+  "uid": "c31f674c90b14cb194244b456bb8cf06",
+  "name": "Lenin Statue @ Seattle",
+  "file_name": "Lenin_Statue_@_Seattle",
+  "author": "Anticipateants",
+  "description": "According to the plaque the statue is placed here somewhat cynically when you consider the context of America &amp; it being in the middle of corporate big tech America Fremont where many big tech companies have offices\nIt&#39;s also a rare example of Lenin without a book so it might have been made mildly critical towards Lenin by the Bulgarian sculptor Venkov\nThey retain the sculpture mainly because of the dialog it sparks, and the impromptu red color slatterings it gets to symbolize blood on his hands. It sometimes even receives christmas decorations and santa hats",
+  "source_url": "https://sketchfab.com/3d-models/lenin-statue-seattle-c31f674c90b14cb194244b456bb8cf06",
+  "output": "C:\\Users\\ADMIN\\Downloads\\sildetriet\\tools\\sketchfab-cli\\downloads\\Lenin_Statue_@_Seattle-c31f674c\\Lenin_Statue_@_Seattle.gltf",
+  "format": "gltf",
+  "textures": 9,
+  "note": "Prefer glTF via osgconv; fallback pure-python glTF; textures in textures/"
+}
